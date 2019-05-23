@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1558289657 source:g:\projeto\sdl\helloworld\main.cpp
+	<cstdio>
+	<SDL.h>
+
+1558290679 source:e:\projeto\sdl\helloworld\main.cpp
+	<cstdio>
+	<SDL.h>
+

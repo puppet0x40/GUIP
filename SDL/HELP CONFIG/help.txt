@@ -1,0 +1,35 @@
+AULA_PUPPET:
+ESSA PASTA CONTEM AS ATIVIDADE COM BASE DO SITE LOZYFOO
+
+AULA_LOZYFOO:
+POSSUE AS CODIGO FONTE DO LOZYFOO
+ONDE POSSO TESTE O PROGRAMA  E COMPARA COM OS MEU CODIGO(QUESTÃO DE ESTÉTICA E LOGICA)
+
+
+
+
+
+
+-----------compiler( <INCLUDE> ! PODE MUDA  A RAIZ (E:\ OU G:\))-----------------
+
+E:\dev\SDL\SDL2-devel-2.0.9-mingw\SDL2-2.0.9\i686-w64-mingw32\include\SDL2
+E:\dev\SDL\SDL2_image-devel-2.0.4-mingw\SDL2_image-2.0.4\i686-w64-mingw32\include
+E:\dev\SDL\SDL2_mixer-devel-2.0.4-mingw\SDL2_mixer-2.0.4\i686-w64-mingw32\include
+
+
+G:\dev\SDL\SDL2-devel-2.0.9-mingw\SDL2-2.0.9\i686-w64-mingw32\include\SDL2
+G:\dev\SDL\SDL2_image-devel-2.0.4-mingw\SDL2_image-2.0.4\i686-w64-mingw32\include
+G:\dev\SDL\SDL2_mixer-devel-2.0.4-mingw\SDL2_mixer-2.0.4\i686-w64-mingw32\include
+
+-----------linker( <LIB> ! PODE MUDA  A RAIZ (E:\ OU G:\))-----------------------
+
+E:\dev\SDL\SDL2-devel-2.0.9-mingw\SDL2-2.0.9\i686-w64-mingw32\lib
+E:\dev\SDL\SDL2_image-devel-2.0.4-mingw\SDL2_image-2.0.4\i686-w64-mingw32\lib
+E:\dev\SDL\SDL2_mixer-devel-2.0.4-mingw\SDL2_mixer-2.0.4\i686-w64-mingw32\lib
+
+G:\dev\SDL\SDL2-devel-2.0.9-mingw\SDL2-2.0.9\i686-w64-mingw32\lib
+G:\dev\SDL\SDL2_image-devel-2.0.4-mingw\SDL2_image-2.0.4\i686-w64-mingw32\lib
+G:\dev\SDL\SDL2_mixer-devel-2.0.4-mingw\SDL2_mixer-2.0.4\i686-w64-mingw32\lib
+---------------
+
+-lmingw32 -lSDL2main -lSDL2
